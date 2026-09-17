@@ -1,4 +1,4 @@
-# comparaison ml et llm sur le titanic
+# Comparaison ml et llm sur le titanic
 
 ## ce que j'ai fait
 
